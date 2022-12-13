@@ -1,4 +1,4 @@
-package com.example.androidcamera
+package com.example.lab5
 
 import android.Manifest
 import android.app.Activity
